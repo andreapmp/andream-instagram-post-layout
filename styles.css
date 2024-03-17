@@ -1,0 +1,100 @@
+body{
+    background-color: black;
+}
+
+.card {
+    background-color: white;
+    width: 416px;
+    height: 560px;
+    margin:auto;
+    margin-top:60px ;
+}
+
+.image1 {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.header-symbol {
+    width: 9%;
+    height: 50px;
+    float:left;
+}
+
+.header-title {
+    width:80%;
+    height: 50px;
+    float:left;
+}
+
+.header-menu {
+    width: 8%;
+    height: 50px;
+    float:left;
+}
+
+.html-icon {
+    height: 22px;
+    width: 19px;
+    margin-top: 18px;
+    margin-left: 10px;
+}
+
+.header-title-top, .header-title-bottom {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2px;
+}
+
+.header-title-top {
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+.header-title-bottom {
+    margin-top: 0;
+}
+
+.menu-icon {
+    height: 21px;
+    width: 24px;
+    margin-top: 16px;
+    margin-left: 18px;
+}
+
+
+.like-icon {
+    height: 22px;
+    width: 24px;
+}
+
+.comments-icon {
+    height: 22px;
+    width: 22px;
+    margin-left: 5px;
+}
+
+.share-icon {
+    height: 22px;
+    width: 22px;
+    margin-left: 5px;
+}
+
+.save-icon {
+    height: 27px;
+    width: 23px;
+    margin-left: 280px;
+}
+
+.icons {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.post-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    margin-top: 15px;
+    margin-left: 10px;
+}
